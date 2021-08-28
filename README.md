@@ -56,7 +56,7 @@
  
 ![image](https://user-images.githubusercontent.com/85533099/131233114-199795ff-290d-4c0c-9322-4014c5d2a2f1.png)
 
-### I eventually came to the conclusion that the “For Loop” seemed unnecessary and instead included the following code:
+### I eventually came to the conclusion that the “For Loop” seemed unnecessary and instead included the following code using "tickerIndex":
 
 ![image](https://user-images.githubusercontent.com/85533099/131233119-7d25ac2a-830d-42a1-b7d2-40921249e842.png)
 
