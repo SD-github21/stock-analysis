@@ -23,19 +23,19 @@
 ## Results
 ### The following screen shots compare the results of using the original macro versus the refactored macro in regards to the time the computer spent running through each analysis respectively:
 
-### ORIGINAL MACRO – RUN TIME FOR YEAR 2017
+### ORIGINAL MACRO – RUN TIME FOR YEAR 2017 --> 1.097656 seconds
 
 ![image](https://user-images.githubusercontent.com/85533099/131233092-4849695a-15e6-4fe4-9013-3a626c633e86.png)
 
-### REFACTORED MACRO – RUN TIME FOR YEAR 2017
+### REFACTORED MACRO – RUN TIME FOR YEAR 2017 --> 1 second
 
 ![image](https://user-images.githubusercontent.com/85533099/131233098-6572ce18-30d5-448b-8996-a0fb8ca33315.png)
 
-### ORIGINAL MACRO – RUN TIME FOR YEAR 2018
+### ORIGINAL MACRO – RUN TIME FOR YEAR 2018 --> 0.9804688 seconds
 
 ![image](https://user-images.githubusercontent.com/85533099/131233099-6b52f469-5461-45c7-b0dc-8783f7553fd6.png)
 
-### REFACTORED MACRO – RUN TIME FOR YEAR 2018
+### REFACTORED MACRO – RUN TIME FOR YEAR 2018 --> 1 second
 
 ![image](https://user-images.githubusercontent.com/85533099/131233104-6562ab11-3e65-417a-a7af-14275f895a4e.png)
 
