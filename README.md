@@ -20,11 +20,11 @@ However, in the refactored code below, a variable called “tickerIndex” was c
 
 ![image](https://user-images.githubusercontent.com/85533099/131233070-6aaa17f2-4fa8-4aac-82cd-3bbf78659157.png)
 
-The below section was added to create a “for loop” to set the tickerIndex to go through each individual ticker from ticker 0 to ticker 11 and to initialize each of the metric variables to 0, while adding the tickerIndex to each. 
+The below section was added to create a “for loop” to set the "tickerIndex" to go through each individual ticker from ticker 0 to ticker 11 and to initialize each of the metric variables to 0, while adding the "tickerIndex" to each. 
 
 ![image](https://user-images.githubusercontent.com/85533099/131233077-7129bb9c-e0c8-474e-b428-f95705488ef0.png)
 
-The below sections of code appear in both the original macro as well as the refactored macro with the only change being the addition of "(tickerIndex)" to each variable across all the calculations.  
+The below sections of code appear in both the original macro as well as the refactored macro with the only change being the addition of (tickerIndex) to each variable across all the calculations.  
 
 ![image](https://user-images.githubusercontent.com/85533099/131233085-6ed120fc-2e42-4e39-868d-f864423cb3ef.png)
 
