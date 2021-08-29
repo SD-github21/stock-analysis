@@ -50,7 +50,7 @@ The following screen shots compare the results of using the original macro versu
 
 ![image](https://user-images.githubusercontent.com/85533099/131233104-6562ab11-3e65-417a-a7af-14275f895a4e.png)
 
-In conducting a comparison between the total time each macro needed to complete their respective analysis, it appears that the refactored solution took a little less time for the 2017 analyses but a little longer for the 2018 analyses, although the total time recorded for each macro does change each time the macro is run and varies a bit each time. In this instance, the refactoring process did not yield results, i.e., a change in run time, that were significantly different from the original macro that had been developed. 
+In conducting a comparison between the total time each macro needed to complete their respective analysis, it appears that the refactored solution took a little less time for the 2017 analyses but a little longer for the 2018 analyses, although the total time recorded for each macro does change each time the macro is run and varies a bit each time. In this instance, the refactoring process did not yield a result, i.e., a change in run time, that was significantly different from the original macro that had been developed. 
 
 ## Summary
 
