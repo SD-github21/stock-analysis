@@ -16,7 +16,7 @@ A substantial amount of the coding for the original VBA macro, entitled “yearV
 
 ![image](https://user-images.githubusercontent.com/85533099/131233173-c0afca8f-b9f4-4d67-9f8e-7ca0a0867e56.png)
 
-However, in the refactored code below, a variable called “tickerIndex” was created as a way to quickly grab each of the tickers for later analyses and set to 0. The metrics of interest, i.e., “tickerVolumes”, “tickerStartingPrices”, and “tickerEndingPrices” were established as array variables, by adding the number 12 in their Dim statements. Setting these variables as an array would later allow for tickerIndex to be combined with these variables for subsequent analyses:
+However, in the refactored code below, a variable called “tickerIndex” was created as a way to quickly grab each of the tickers for later analyses and set to 0. The metrics of interest, i.e., “tickerVolumes”, “tickerStartingPrices”, and “tickerEndingPrices” were established as array variables, by adding the number 12 in their Dim statements. Setting these variables as an array would later allow for "tickerIndex" to be combined with these variables for subsequent analyses:
 
 ![image](https://user-images.githubusercontent.com/85533099/131233070-6aaa17f2-4fa8-4aac-82cd-3bbf78659157.png)
 
