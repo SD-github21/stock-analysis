@@ -24,7 +24,7 @@ The below section was added to create a “for loop” to set the "tickerIndex" 
 
 ![image](https://user-images.githubusercontent.com/85533099/131233077-7129bb9c-e0c8-474e-b428-f95705488ef0.png)
 
-The below sections of code appear in both the original macro as well as the refactored macro with the only change being the addition of (tickerIndex) to each variable across all the calculations.  
+The below sections of code appear in both the original macro as well as the refactored macro with the only change being the addition of (tickerIndex) to each variable across all the calculations as well as the usage of "tickerIndex" for the output Worksheet.  
 
 ![image](https://user-images.githubusercontent.com/85533099/131233085-6ed120fc-2e42-4e39-868d-f864423cb3ef.png)
 
