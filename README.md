@@ -3,11 +3,14 @@
 
 ## Overview of Green Energy Stocks Analysis
 
+### Initital Analysis
+
 An analysis of green energy stocks was conducted in order to help identify which green energy stocks were the best to invest in:
 * The analysis entailed developing a VBA macro to calculate important metrics to determine which green energy stocks performed well according to two target years, i.e., 2017 and 2018. 
 * Total daily volume was investigated to provide an indication of how actively a stock was traded, while the yearly return was used to illuminate the percentage difference in the price of the stock from the beginning of the year to the end of the year. 
 * By viewing these metrics, we could identify which green energy stocks appeared to perform well and this could help inform decision-making processes around which ones to invest in. 
 
+### New Analysis Based on Refactoring
 However, although this VBA macro, entitled “yearValueAnalysis”,  was successfully developed to conduct this analysis throughout the course of Module 2, the purpose of the current analysis was to determine if refactoring the code of this VBA macro enhanced the ability for that macro to run more quickly and efficiently. The original VBA macro contained much of the same coding as the refactored macro, entitled “AllStocksAnalysisRefactored". For example, the following elements appear in both macros:
 
 ![image](https://user-images.githubusercontent.com/85533099/131233173-c0afca8f-b9f4-4d67-9f8e-7ca0a0867e56.png)
